@@ -1,6 +1,14 @@
 name: Monitor public tennis portals
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - players.json
+      - monitor.mjs
+      - package.json
+      - package-lock.json
+      - .github/workflows/public-monitor.yml
   schedule:
     - cron: '7,37 * * * *'
 permissions:
