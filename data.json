@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:48:43.218Z",
+  "generatedAt": "2026-08-12T12:39:03.909Z",
   "mode": "public-web",
   "players": [
     {
@@ -19,8 +19,8 @@
       "type": "mention",
       "title": "DANESI MARTINA | Risultati Tennis FITP - Classifica: 2.6 - Categoria U18 - ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO - LOM (LC) - Match recenti e tornei - TennisTalker",
       "url": "https://www.tennistalker.it/giocatore/175862",
-      "snippet": "Accedi Home Classifiche Tornei Profilo DANESI MARTINA U18 2.6 Scopri il numero di visite Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.6 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria et",
-      "observedAt": "2026-08-12T09:48:43.131Z"
+      "snippet": "Accedi Home Classifiche Tornei Profilo DANESI MARTINA U18 2.6 NUMERO DI VISITE:3097 Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.6 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria età U18",
+      "observedAt": "2026-08-12T12:38:54.790Z"
     }
   ],
   "trackedUrls": [
@@ -31,7 +31,7 @@
       "id": "fitp",
       "name": "FITP PUC",
       "status": "ok",
-      "pagesChecked": 8,
+      "pagesChecked": 9,
       "errorCount": 0,
       "diagnostics": []
     },
@@ -47,22 +47,17 @@
       "id": "itf",
       "name": "ITF pubblico",
       "status": "ok",
-      "pagesChecked": 10,
+      "pagesChecked": 12,
       "errorCount": 0,
       "diagnostics": []
     },
     {
       "id": "tennistalker",
       "name": "TennisTalker pubblico",
-      "status": "partial",
-      "pagesChecked": 1,
-      "errorCount": 1,
-      "diagnostics": [
-        {
-          "url": "https://www.tennistalker.it/giocatore/175862",
-          "error": "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation"
-        }
-      ]
+      "status": "ok",
+      "pagesChecked": 4,
+      "errorCount": 0,
+      "diagnostics": []
     }
   ]
 }
