@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:01:23.845Z",
+  "generatedAt": "2026-08-17T15:10:39.849Z",
   "mode": "public-web",
   "players": [
     {
@@ -20,7 +20,7 @@
       "title": "DANESI MARTINA | Risultati Tennis FITP - Classifica: 2.6 - Categoria U18 - ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO - LOM (LC) - Match recenti e tornei - TennisTalker",
       "url": "https://www.tennistalker.it/giocatore/175862",
       "snippet": "Accedi Home Classifiche Tornei Profilo DANESI MARTINA U18 2.6 Scopri il numero di visite Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.6 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria et",
-      "observedAt": "2026-08-17T14:01:23.706Z"
+      "observedAt": "2026-08-17T15:10:30.927Z"
     }
   ],
   "trackedUrls": [
@@ -39,30 +39,59 @@
       "id": "tennis-europe",
       "name": "Tennis Europe",
       "status": "ok",
-      "pagesChecked": 18,
-      "errorCount": 0,
-      "diagnostics": []
+      "pagesChecked": 16,
+      "errorCount": 14,
+      "diagnostics": [
+        {
+          "url": "https://te.tournamentsoftware.com/find",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://te.tournamentsoftware.com/find\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=8B06E277-4368-45FB-B9D9-81CB138678E2",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=8B06E277-4368-45FB-B9D9-81CB138678E2\", waiting until \"domcon"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=965BE632-4B4D-4AC0-B654-C26F2C2802B4",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=965BE632-4B4D-4AC0-B654-C26F2C2802B4\", waiting until \"domcon"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=2A26A355-1BEF-46C3-A589-12A5CFB2DB5C",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=2A26A355-1BEF-46C3-A589-12A5CFB2DB5C\", waiting until \"domcon"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=11228C27-0B06-405A-96E8-58CEEE89AD7D",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=11228C27-0B06-405A-96E8-58CEEE89AD7D\", waiting until \"domcon"
+        }
+      ]
     },
     {
       "id": "itf",
       "name": "ITF pubblico",
       "status": "ok",
       "pagesChecked": 12,
-      "errorCount": 0,
-      "diagnostics": []
+      "errorCount": 3,
+      "diagnostics": [
+        {
+          "url": "https://www.itftennis.com/en/tournament/j60-radomlje/slo/2026/j-j60-slo-2026-002/",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j60-radomlje/slo/2026/j-j60-slo-2026-002/\", waiting until \"domcontentloade"
+        },
+        {
+          "url": "https://www.itftennis.com/en/tournament/j60-medford/usa/2026/j-j60-usa-2026-004/",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j60-medford/usa/2026/j-j60-usa-2026-004/\", waiting until \"domcontentloaded"
+        },
+        {
+          "url": "https://www.itftennis.com/en/tournament/j60-harare/zim/2026/j-j60-zim-2026-001/",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j60-harare/zim/2026/j-j60-zim-2026-001/\", waiting until \"domcontentloaded\""
+        }
+      ]
     },
     {
       "id": "tennistalker",
       "name": "TennisTalker pubblico",
-      "status": "partial",
-      "pagesChecked": 1,
-      "errorCount": 1,
-      "diagnostics": [
-        {
-          "url": "https://www.tennistalker.it/giocatore/175862",
-          "error": "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation"
-        }
-      ]
+      "status": "ok",
+      "pagesChecked": 4,
+      "errorCount": 0,
+      "diagnostics": []
     }
   ]
 }
