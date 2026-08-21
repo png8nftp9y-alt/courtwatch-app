@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:19:47.643Z",
+  "generatedAt": "2026-08-21T08:06:50.495Z",
   "mode": "public-web",
   "players": [
     {
@@ -20,7 +20,7 @@
       "title": "DANESI MARTINA | Risultati Tennis FITP - Classifica: 2.6 - Categoria U18 - ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO - LOM (LC) - Match recenti e tornei - TennisTalker",
       "url": "https://www.tennistalker.it/giocatore/175862",
       "snippet": "Accedi Home Classifiche Tornei Profilo DANESI MARTINA U18 2.6 Scopri il numero di visite Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.6 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria et",
-      "observedAt": "2026-08-21T05:19:47.531Z"
+      "observedAt": "2026-08-21T08:06:41.351Z"
     }
   ],
   "trackedUrls": [
@@ -48,21 +48,21 @@
       "name": "ITF pubblico",
       "status": "ok",
       "pagesChecked": 12,
-      "errorCount": 0,
-      "diagnostics": []
+      "errorCount": 1,
+      "diagnostics": [
+        {
+          "url": "https://www.itftennis.com/en/tournament/j200-basel/sui/2026/j-j200-sui-2026-001/",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j200-basel/sui/2026/j-j200-sui-2026-001/\", waiting until \"domcontentloaded"
+        }
+      ]
     },
     {
       "id": "tennistalker",
       "name": "TennisTalker pubblico",
-      "status": "partial",
-      "pagesChecked": 1,
-      "errorCount": 1,
-      "diagnostics": [
-        {
-          "url": "https://www.tennistalker.it/giocatore/175862",
-          "error": "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation"
-        }
-      ]
+      "status": "ok",
+      "pagesChecked": 4,
+      "errorCount": 0,
+      "diagnostics": []
     }
   ]
 }
