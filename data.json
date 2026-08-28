@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:36:09.127Z",
+  "generatedAt": "2026-08-28T01:03:42.005Z",
   "mode": "public-web",
   "players": [
     {
@@ -20,7 +20,7 @@
       "title": "DANESI MARTINA | Risultati Tennis FITP - Classifica: 2.6 - Categoria U18 - ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO - LOM (LC) - Match recenti e tornei - TennisTalker",
       "url": "https://www.tennistalker.it/giocatore/175862",
       "snippet": "Accedi Home Classifiche Tornei Profilo DANESI MARTINA U18 2.6 Scopri il numero di visite Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.6 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria et",
-      "observedAt": "2026-08-26T14:36:00.073Z"
+      "observedAt": "2026-08-28T01:03:32.894Z"
     }
   ],
   "trackedUrls": [
@@ -40,33 +40,33 @@
       "name": "Tennis Europe",
       "status": "ok",
       "pagesChecked": 18,
-      "errorCount": 0,
-      "diagnostics": []
+      "errorCount": 4,
+      "diagnostics": [
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=B63AC692-6B21-4BCE-BD55-0DDA745AFF30",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=B63AC692-6B21-4BCE-BD55-0DDA745AFF30\", waiting until \"domcon"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=10629203-FD5B-432E-81E7-34B1098DBDA8",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=10629203-FD5B-432E-81E7-34B1098DBDA8\", waiting until \"domcon"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=6526CB4C-B82D-4003-8DB9-2E349702A060",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=6526CB4C-B82D-4003-8DB9-2E349702A060\", waiting until \"domcon"
+        },
+        {
+          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=8B9DDEBA-4A12-4F59-B3FB-6FB456F8BEB0",
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=8B9DDEBA-4A12-4F59-B3FB-6FB456F8BEB0\", waiting until \"domcon"
+        }
+      ]
     },
     {
       "id": "itf",
       "name": "ITF pubblico",
       "status": "ok",
       "pagesChecked": 12,
-      "errorCount": 4,
-      "diagnostics": [
-        {
-          "url": "https://www.itftennis.com/en/tournament/j30-cuneo/ita/2026/j-j30-ita-2026-002/",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j30-cuneo/ita/2026/j-j30-ita-2026-002/\", waiting until \"domcontentloaded\"\n"
-        },
-        {
-          "url": "https://www.itftennis.com/en/tournament/j30-livorno/ita/2026/j-j30-ita-2026-001/",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j30-livorno/ita/2026/j-j30-ita-2026-001/\", waiting until \"domcontentloaded"
-        },
-        {
-          "url": "https://www.itftennis.com/en/tournament/j60-leiria/por/2026/j-j60-por-2026-003/",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j60-leiria/por/2026/j-j60-por-2026-003/\", waiting until \"domcontentloaded\""
-        },
-        {
-          "url": "https://www.itftennis.com/en/tournament/j60-radomlje/slo/2026/j-j60-slo-2026-002/",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.itftennis.com/en/tournament/j60-radomlje/slo/2026/j-j60-slo-2026-002/\", waiting until \"domcontentloade"
-        }
-      ]
+      "errorCount": 0,
+      "diagnostics": []
     },
     {
       "id": "tennistalker",
