@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:39:47.932Z",
+  "generatedAt": "2026-09-10T11:51:35.222Z",
   "mode": "public-web",
   "players": [
     {
@@ -20,7 +20,7 @@
       "title": "DANESI MARTINA | Risultati Tennis FITP - Classifica: 2.6 - Categoria U18 - ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO - LOM (LC) - Match recenti e tornei - TennisTalker",
       "url": "https://www.tennistalker.it/giocatore/175862",
       "snippet": "Accedi Home Classifiche Tornei Profilo Nuovo post Aggiungi amichevole Registra allenamento Martina Danesi U18 2.6 Scopri il numero di visite Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.6 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria et",
-      "observedAt": "2026-09-10T06:39:38.842Z"
+      "observedAt": "2026-09-10T11:51:26.090Z"
     }
   ],
   "trackedUrls": [
@@ -38,19 +38,10 @@
     {
       "id": "tennis-europe",
       "name": "Tennis Europe",
-      "status": "partial",
-      "pagesChecked": 2,
-      "errorCount": 2,
-      "diagnostics": [
-        {
-          "url": "https://www.tenniseurope.org/tournaments",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/tournaments\", waiting until \"domcontentloaded\"\n"
-        },
-        {
-          "url": "https://te.tournamentsoftware.com/find",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://te.tournamentsoftware.com/find\", waiting until \"domcontentloaded\"\n"
-        }
-      ]
+      "status": "ok",
+      "pagesChecked": 18,
+      "errorCount": 0,
+      "diagnostics": []
     },
     {
       "id": "itf",
