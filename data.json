@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T17:07:03.518Z",
+  "generatedAt": "2026-09-25T20:28:50.350Z",
   "mode": "public-web",
   "players": [
     {
@@ -41,15 +41,10 @@
     {
       "id": "tennistalker",
       "name": "TennisTalker pubblico",
-      "status": "partial",
+      "status": "ok",
       "pagesChecked": 1,
-      "errorCount": 1,
-      "diagnostics": [
-        {
-          "url": "https://www.tennistalker.it/giocatore/175862",
-          "error": "page.title: Execution context was destroyed, most likely because of a navigation"
-        }
-      ]
+      "errorCount": 0,
+      "diagnostics": []
     }
   ]
 }
