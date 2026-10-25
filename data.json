@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:18:24.908Z",
+  "generatedAt": "2026-10-25T05:15:59.355Z",
   "mode": "public-web",
   "players": [
     {
@@ -18,7 +18,7 @@
       "id": "fitp",
       "name": "FITP PUC",
       "status": "ok",
-      "pagesChecked": 8,
+      "pagesChecked": 9,
       "errorCount": 0,
       "diagnostics": []
     },
