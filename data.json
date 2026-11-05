@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:56:51.287Z",
+  "generatedAt": "2026-11-05T00:21:16.926Z",
   "mode": "public-web",
   "players": [
     {
@@ -20,7 +20,7 @@
       "title": "Martina Danesi – Classifica FITP 2.5 e risultati di tennis - TennisTalker",
       "url": "https://www.tennistalker.it/giocatore/175862",
       "snippet": "MD Martina Danesi U18 2.5 Scopri il numero di visite Segui Messaggio Panoramica Partite Statistiche Attività Community Informazioni base: Massima classifica raggiunta 2.5 nel 2026 Scopri il grafico dell'evoluzione della classifica del giocatore negli anni e altre statistiche Circolo ASSOCIAZIONE SPORTIVA DILETTANTISTICA TENNIS CLUB LECCO Provincia LOM,LC Scopri i giocatori più forti della provincia di Lecco Categoria et",
-      "observedAt": "2026-11-04T18:56:41.111Z"
+      "observedAt": "2026-11-05T00:21:06.817Z"
     }
   ],
   "trackedUrls": [
@@ -39,30 +39,9 @@
       "id": "tennis-europe",
       "name": "Tennis Europe",
       "status": "ok",
-      "pagesChecked": 16,
-      "errorCount": 13,
-      "diagnostics": [
-        {
-          "url": "https://te.tournamentsoftware.com/find",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://te.tournamentsoftware.com/find\", waiting until \"domcontentloaded\"\n"
-        },
-        {
-          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=4F42640A-EF8A-4BD9-A603-9FCE5F22ABF8",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=4F42640A-EF8A-4BD9-A603-9FCE5F22ABF8\", waiting until \"domcon"
-        },
-        {
-          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=FB63A060-4F70-4195-B1D7-D8E6E48B3F57",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=FB63A060-4F70-4195-B1D7-D8E6E48B3F57\", waiting until \"domcon"
-        },
-        {
-          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=545EC954-97A2-4934-9D6B-BC33CA6C321F",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=545EC954-97A2-4934-9D6B-BC33CA6C321F\", waiting until \"domcon"
-        },
-        {
-          "url": "https://www.tenniseurope.org/sport/tournament.aspx?id=F1FE73DF-5A7C-48CD-B4DE-52EA8A2AE2C7",
-          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tenniseurope.org/sport/tournament.aspx?id=F1FE73DF-5A7C-48CD-B4DE-52EA8A2AE2C7\", waiting until \"domcon"
-        }
-      ]
+      "pagesChecked": 18,
+      "errorCount": 0,
+      "diagnostics": []
     },
     {
       "id": "itf",
